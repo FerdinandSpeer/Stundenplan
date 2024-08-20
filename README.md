@@ -16,7 +16,7 @@ siehe Wiki
 | Monday    | Array             | Testing                |
 | Tuesday   | TDD               | Shell                  |
 | Wednesday | Maven + CI        | Recap Project 1        |
-| Thursday  | Recap Project 1   | Self Directed Learning |
+| Thursday  | Recap Project 1   | TDD Challenge + CodeWars|
 | Friday    | Class and Objects | Packages               |
 
 ### Week 3
